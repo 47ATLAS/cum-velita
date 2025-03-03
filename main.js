@@ -10,7 +10,7 @@ $(document).ready(function() {
             $(this).addClass("puff-bubble");
         });
         $("#glow").remove();
-        txt.hide().html("Felices 17 Añitos mi Amor").delay(750).fadeIn(300);
+        txt.hide().html("Felices 13 Añitos Preciosaaaa !").delay(750).fadeIn(300);
         $("#candle").animate(
             {
             opacity: ".5"
